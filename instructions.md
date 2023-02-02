@@ -56,7 +56,7 @@ For a detailed explanation [CLICK HERE](https://education-team-2020.s3-eu-west-1
 * Create your repo on Github with a README file and clone it to your computer. 
 * Keep all your working files inside that folder and commit often. Folder structure is your friend!
 
-**Tuesday**
+**Tuesday** 
 * Explore the data
 * Including, but not limited to, describing data, data cleaning, data pre-processing (scaling, encoding, etc)
 * Create your presentation outline: list the general ideas you want to include
