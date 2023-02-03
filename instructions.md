@@ -8,7 +8,7 @@ Your goal is to perform an end-to-end analysis putting into practice your statis
 ## Expected deliverables
 
 - Project management dashboard (Kanban [example](https://trello.com/b/FprQ67UI/daft-mini-project-1-game) or Trello board [example](https://trello.com/b/0SuyFNUA), spreadsheet on Google Sheets or Excel, etc) 
-- Deck: Use templates found on [slides.com](https://slides.com/) or [canva.com](https://www.canva.com/) or make your own on PowerPoint or Keynote. **No more than 10 slides**
+- Deck: Use templates found on [slides.com](https://slides.com/) or [canva.com](https://www.canva.com/) or make your own on PowerPoint or Keynote. **No more than 10 slides** ([example 1](https://www.canva.com/design/DAFUssl5Urw/P3nhl-1zPZz8dJwQuNRjiA/view?utm_content=DAFUssl5Urw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton), [example 2](https://www.canva.com/design/DAFSSA8OAzM/jfV-13mHvcwXijAJnFx__A/view?utm_content=DAFSSA8OAzM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))
 - Presentation: 5 minutes
 - Tableau Dashboard
 - Organized repository with folder and file structure ([example 1](https://miro.medium.com/v2/resize:fit:828/format:webp/1*7votQbmArQop0uN8WsTVpw.png), [example 2](https://miro.medium.com/max/366/1*06aeJgtJ4c4mUQOG3qIbCw.png), [example 3](https://miro.medium.com/max/640/1*YzcIXP0W-hi9B50ajKhFrg.webp)) that includes:
