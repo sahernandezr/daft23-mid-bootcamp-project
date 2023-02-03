@@ -3,7 +3,7 @@
 
 ## Scenario 
 
-Your goal is to perform an end-to-end analysis putting into practice your statistical and data visualization knowledge and supervised machine learning techniques (linear or logistic regression) and present your project to an audience, accommodating to constraints of time.
+Your goal is to perform an end-to-end analysis putting into practice your statistical, data visualization and regression knowledge and present your project to an audience, accommodating to constraints of time.
 
 ## Expected deliverables
 
